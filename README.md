@@ -9,10 +9,11 @@ Personal repository for the course [TypeScript Fundamentals (v3)](https://fronte
 - 🎓 **Course Level:** Beginner
 - ⏳ **Course Duration:** 4 hours, 27 minutes
 - 📅 **Published On:** Aug 3, 2021
-- 🏁 **Started On:** Aug 227, 2022
-- ✅ **Completed On:** ???
-- 🍅 **Focus Time:** ???
+- 🏁 **Started On:** Aug 27, 2022
+- ✅ **Completed On:** Aug 28, 2022
+- 🍅 **Focus Time:** 5 hours, 50 minutes (14)
 
 ## Course Resources
 
 - [Course Repository | GitHub](https://github.com/mike-north/ts-fundamentals-v3)
+- [Course Website](https://www.typescript-training.com/course/fundamentals-v3)
